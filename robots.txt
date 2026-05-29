@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seweryn.stawiarski.github.io/sitemap.xml
+Sitemap: https://seweryn.stawiarski.github.io/AKAHIGE//sitemap.xml
