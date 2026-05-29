@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='#'>https://www.linkedin.com/in/seweryn-stawiarski-897aa9133/?locale=en_US</a>
