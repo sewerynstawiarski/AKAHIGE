@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>https://www.linkedin.com/in/seweryn-stawiarski-897aa9133/?locale=en_US</a>
+subtitle: <a href='https://www.linkedin.com/in/seweryn-stawiarski-897aa9133/?locale=en_US'>LinkeIn</a>| eCommerce Operations Engineer | B2B | Integrations | Freelance | AKAHIGE Services
 
 profile:
   align: right
@@ -10,13 +10,13 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>seweryn.stawiarski@gmail.com</p>
-    <p>Leszczyniec// Wrocław, Poland</p>
+    <p>Leszczyniec / Wrocław, Poland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I provide independent B2B services in the area of eCommerce operations, integrations, and technical support. I help clients connect their systems, resolve production issues, and deliver stable, scalable solutions tailored to their needs.
+I believe in a service-first approach — understanding the client’s perspective, responding quickly, and maintaining high standards of quality in every task I take on.
+Alongside my core work, I continuously develop my technical skills and explore new solutions to bring long-term value to my clients.
