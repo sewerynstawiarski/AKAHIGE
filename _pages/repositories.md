@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Links for GitHub user and repositories.
+description: Please feel free to visit my GitHub page.
 nav: true
 nav_order: 4
 ---
