@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 1 # leave blank to include all the blog posts
 ---
 
 I provide independent B2B services in the area of eCommerce operations, integrations, and technical support. I help clients connect their systems, resolve production issues, and deliver stable, scalable solutions tailored to their needs.
