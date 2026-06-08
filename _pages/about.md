@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/seweryn-stawiarski-897aa9133/?locale=en_US'>LinkeIn</a>| eCommerce Operations Engineer | B2B | Integrations | Freelance | AKAHIGE Services
+subtitle: <a href='https://www.linkedin.com/in/seweryn-stawiarski-897aa9133/?locale=en_US'> LinkedIn </a>| eCommerce Operations Engineer | B2B | Integrations | Freelance | AKAHIGE Services
 
 profile:
   align: right
